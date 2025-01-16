@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react'
 import {TodoProvider} from './contexts'
 import './App.css'
